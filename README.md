@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @masanzgiri
 - 👀 I’m interested in Test Automation
-- 🌱 I’m currently learning Selenium
-- 💞️ I’m looking to collaborate on Selenium, Java & C#
+- 🌱 I’m currently learning Selenium | Playwright
+- 💞️ I’m looking to collaborate on Selenium, Java & Playwright
 - 📫 Reach me on testanalystms@gmail.com
 
 <!---
